@@ -1,0 +1,45 @@
+{
+  "type": "RTU",
+  "baud": 9600,
+  "config": "SERIAL_8N1",
+  "ip": "0.0.0.0",
+  "port": 502,
+  "modbusConfig": [
+    {
+      "node": "1",
+      "tag": "Test 1",
+      "order": "BIG",
+      "address": "40000",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 2",
+      "order": "BIG",
+      "address": "40002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 3",
+      "order": "BIG",
+      "address": "40004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 4",
+      "order": "BIG",
+      "address": "40006",
+      "count": "15",
+      "type": "string",
+      "scale": "1"
+    }
+  ]
+}
