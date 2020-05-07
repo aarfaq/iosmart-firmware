@@ -7,6 +7,150 @@
   "modbusConfig": [
     {
       "node": "1",
+      "tag": "Test 20",
+      "order": "BIG",
+      "address": "40000",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 19",
+      "order": "BIG",
+      "address": "40002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 18",
+      "order": "BIG",
+      "address": "40004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 17",
+      "order": "BIG",
+      "address": "40006",
+      "count": "15",
+      "type": "string",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 16",
+      "order": "BIG",
+      "address": "40000",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 15",
+      "order": "BIG",
+      "address": "40002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 14",
+      "order": "BIG",
+      "address": "40004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 13",
+      "order": "BIG",
+      "address": "40006",
+      "count": "15",
+      "type": "string",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 12",
+      "order": "BIG",
+      "address": "40000",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 11",
+      "order": "BIG",
+      "address": "40002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 10",
+      "order": "BIG",
+      "address": "40004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 9",
+      "order": "BIG",
+      "address": "40006",
+      "count": "15",
+      "type": "string",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 8",
+      "order": "BIG",
+      "address": "40000",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 7",
+      "order": "BIG",
+      "address": "40002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 6",
+      "order": "BIG",
+      "address": "40004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 5",
+      "order": "BIG",
+      "address": "40006",
+      "count": "15",
+      "type": "string",
+      "scale": "1"
+    },
+    {
+      "node": "1",
       "tag": "Test 4",
       "order": "BIG",
       "address": "40000",
