@@ -184,6 +184,186 @@
       "count": "15",
       "type": "string",
       "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 30",
+      "order": "BIG",
+      "address": "40000",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 39",
+      "order": "BIG",
+      "address": "40002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 38",
+      "order": "BIG",
+      "address": "40004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 37",
+      "order": "BIG",
+      "address": "40006",
+      "count": "15",
+      "type": "string",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 36",
+      "order": "BIG",
+      "address": "40000",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 35",
+      "order": "BIG",
+      "address": "40002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 34",
+      "order": "BIG",
+      "address": "40004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 33",
+      "order": "BIG",
+      "address": "40006",
+      "count": "15",
+      "type": "string",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 32",
+      "order": "BIG",
+      "address": "40000",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 31",
+      "order": "BIG",
+      "address": "40002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 30",
+      "order": "BIG",
+      "address": "40004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 29",
+      "order": "BIG",
+      "address": "40006",
+      "count": "15",
+      "type": "string",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 28",
+      "order": "BIG",
+      "address": "40000",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 27",
+      "order": "BIG",
+      "address": "40002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 26",
+      "order": "BIG",
+      "address": "40004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 25",
+      "order": "BIG",
+      "address": "40006",
+      "count": "15",
+      "type": "string",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 24",
+      "order": "BIG",
+      "address": "40000",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 23",
+      "order": "BIG",
+      "address": "40002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 22",
+      "order": "BIG",
+      "address": "40004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "Test 21",
+      "order": "BIG",
+      "address": "40006",
+      "count": "15",
+      "type": "string",
+      "scale": "1"
     }
   ]
 }
