@@ -9,7 +9,7 @@
       "node": "1",
       "tag": "Test 1",
       "order": "BIG",
-      "address": "220",
+      "address": "4220",
       "count": "2",
       "type": "long",
       "scale": "5"
@@ -18,7 +18,7 @@
       "node": "1",
       "tag": "Test 2",
       "order": "BIG",
-      "address": "380",
+      "address": "4380",
       "count": "2",
       "type": "float",
       "scale": "10"
@@ -27,7 +27,7 @@
       "node": "1",
       "tag": "Test 3",
       "order": "BIG",
-      "address": "50",
+      "address": "450",
       "count": "2",
       "type": "float",
       "scale": "1"
