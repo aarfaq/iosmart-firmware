@@ -9,8 +9,8 @@
       "node": "1",
       "tag": "ampere",
       "order": "BIG",
-      "address": "46",
-      "count": "4",
+      "address": "36",
+      "count": "2",
       "type": "float",
       "scale": "1"
     },
@@ -18,8 +18,8 @@
       "node": "1",
       "tag": "hz",
       "order": "BIG",
-      "address": "470",
-      "count": "4",
+      "address": "370",
+      "count": "2",
       "type": "float",
       "scale": "1"
     },
@@ -27,8 +27,8 @@
       "node": "1",
       "tag": "kwh",
       "order": "BIG",
-      "address": "4342",
-      "count": "4",
+      "address": "3342",
+      "count": "2",
       "type": "float",
       "scale": "1"
     },
@@ -36,8 +36,8 @@
       "node": "1",
       "tag": "volt",
       "order": "BIG",
-      "address": "40",
-      "count": "4",
+      "address": "30",
+      "count": "2",
       "type": "float",
       "scale": "1"
     },
@@ -45,8 +45,8 @@
       "node": "1",
       "tag": "watt",
       "order": "BIG",
-      "address": "412",
-      "count": "4",
+      "address": "312",
+      "count": "2",
       "type": "float",
       "scale": "1"
     }
