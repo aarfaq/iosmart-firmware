@@ -1,0 +1,162 @@
+{
+  "type": "RTU",
+  "baud": 9600,
+  "config": "SERIAL_8N1",
+  "ip": "0.0.0.0",
+  "port": 502,
+  "modbusConfig": [
+    {
+      "node": "1",
+      "tag": "kwh",
+      "order": "BIG",
+      "address": "41000",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "kvah",
+      "order": "BIG",
+      "address": "41002",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "kvarh",
+      "order": "BIG",
+      "address": "41004",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "kw",
+      "order": "BIG",
+      "address": "41006",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "kva",
+      "order": "BIG",
+      "address": "41008",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "kvar",
+      "order": "BIG",
+      "address": "41010",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "pf",
+      "order": "BIG",
+      "address": "41012",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "hz",
+      "order": "BIG",
+      "address": "41020",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "current_r",
+      "order": "BIG",
+      "address": "41034",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "current_s",
+      "order": "BIG",
+      "address": "41036",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "current_t",
+      "order": "BIG",
+      "address": "41038",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "volt_r-s",
+      "order": "BIG",
+      "address": "41054",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "volt_s-t",
+      "order": "BIG",
+      "address": "41056",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "volt_t-r",
+      "order": "BIG",
+      "address": "41058",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "volt_r",
+      "order": "BIG",
+      "address": "41060",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "volt_s",
+      "order": "BIG",
+      "address": "41062",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "volt_t",
+      "order": "BIG",
+      "address": "41064",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    }
+  ]
+}
