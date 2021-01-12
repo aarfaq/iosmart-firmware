@@ -9,7 +9,7 @@
       "node": "1",
       "tag": "kwh",
       "order": "BIG",
-      "address": "42702",
+      "address": "42701",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -18,7 +18,7 @@
       "node": "1",
       "tag": "kvah",
       "order": "BIG",
-      "address": "42718",
+      "address": "42717",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -27,7 +27,7 @@
       "node": "1",
       "tag": "kvarh",
       "order": "BIG",
-      "address": "42710",
+      "address": "42709",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -36,7 +36,7 @@
       "node": "1",
       "tag": "kw",
       "order": "BIG",
-      "address": "43060",
+      "address": "43059",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -45,7 +45,7 @@
       "node": "1",
       "tag": "kva",
       "order": "BIG",
-      "address": "43076",
+      "address": "43075",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -54,7 +54,7 @@
       "node": "1",
       "tag": "kvar",
       "order": "BIG",
-      "address": "43068",
+      "address": "43067",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -63,7 +63,7 @@
       "node": "1",
       "tag": "pf",
       "order": "BIG",
-      "address": "43084",
+      "address": "43083",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -72,7 +72,7 @@
       "node": "1",
       "tag": "hz",
       "order": "BIG",
-      "address": "43110",
+      "address": "43109",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -81,7 +81,7 @@
       "node": "1",
       "tag": "current_r",
       "order": "BIG",
-      "address": "43000",
+      "address": "42999",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -90,7 +90,7 @@
       "node": "1",
       "tag": "current_s",
       "order": "BIG",
-      "address": "43002",
+      "address": "43001",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -99,7 +99,7 @@
       "node": "1",
       "tag": "current_t",
       "order": "BIG",
-      "address": "43004",
+      "address": "43003",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -108,7 +108,7 @@
       "node": "1",
       "tag": "volt_r-s",
       "order": "BIG",
-      "address": "43020",
+      "address": "43019",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -117,7 +117,7 @@
       "node": "1",
       "tag": "volt_s-t",
       "order": "BIG",
-      "address": "43022",
+      "address": "43021",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -126,7 +126,7 @@
       "node": "1",
       "tag": "volt_t-r",
       "order": "BIG",
-      "address": "43024",
+      "address": "43023",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -135,7 +135,7 @@
       "node": "1",
       "tag": "volt_r",
       "order": "BIG",
-      "address": "43028",
+      "address": "43027",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -144,7 +144,7 @@
       "node": "1",
       "tag": "volt_s",
       "order": "BIG",
-      "address": "43030",
+      "address": "43029",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -153,7 +153,7 @@
       "node": "1",
       "tag": "volt_t",
       "order": "BIG",
-      "address": "43032",
+      "address": "43031",
       "count": "2",
       "type": "float",
       "scale": "1"
