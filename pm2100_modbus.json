@@ -9,7 +9,7 @@
       "node": "1",
       "tag": "kwh",
       "order": "BIG",
-      "address": "42701",
+      "address": "42699",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -18,7 +18,7 @@
       "node": "1",
       "tag": "kvah",
       "order": "BIG",
-      "address": "42717",
+      "address": "42715",
       "count": "2",
       "type": "float",
       "scale": "1"
@@ -27,7 +27,7 @@
       "node": "1",
       "tag": "kvarh",
       "order": "BIG",
-      "address": "42709",
+      "address": "42707",
       "count": "2",
       "type": "float",
       "scale": "1"
