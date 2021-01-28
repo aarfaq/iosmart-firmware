@@ -1,0 +1,27 @@
+{
+  "type": "RTU",
+  "baud": 115200,
+  "config": "SERIAL_8N1",
+  "ip": "0.0.0.0",
+  "port": 502,
+  "modbusConfig": [
+    {
+      "node": "1",
+      "tag": "battVolt",
+      "order": "LITTLE",
+      "address": "312548",
+      "count": "1",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "battCurrent",
+      "order": "BIG",
+      "address": "312549",
+      "count": "1",
+      "type": "float",
+      "scale": "1"
+    }
+  ]
+}
