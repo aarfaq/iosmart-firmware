@@ -12,7 +12,7 @@
       "address": "312544",
       "count": "1",
       "type": "long",
-      "scale": "1"
+      "scale": "0.01"
     },
     {
       "node": "1",
@@ -21,7 +21,7 @@
       "address": "312545",
       "count": "1",
       "type": "long",
-      "scale": "1"
+      "scale": "0.01"
     }
   ]
 }
