@@ -22,6 +22,78 @@
       "count": "1",
       "type": "long",
       "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "battPower",
+      "order": "BIG",
+      "address": "312550",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "battCapacity",
+      "order": "BIG",
+      "address": "312570",
+      "count": "1",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "pvVolt",
+      "order": "BIG",
+      "address": "312544",
+      "count": "1",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "pvCurrent",
+      "order": "BIG",
+      "address": "312545",
+      "count": "1",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "pvPower",
+      "order": "BIG",
+      "address": "312546",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "loadVolt",
+      "order": "BIG",
+      "address": "312556",
+      "count": "1",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "loadCurrent",
+      "order": "BIG",
+      "address": "312557",
+      "count": "1",
+      "type": "long",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "loadPower",
+      "order": "BIG",
+      "address": "312558",
+      "count": "2",
+      "type": "long",
+      "scale": "1"
     }
   ]
 }
