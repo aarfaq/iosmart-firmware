@@ -20,7 +20,7 @@
       "order": "LITTLE",
       "address": "312545",
       "count": "1",
-      "type": "long",
+      "type": "float",
       "scale": "1"
     }
   ]
