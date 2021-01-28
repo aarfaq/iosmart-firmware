@@ -8,10 +8,10 @@
     {
       "node": "1",
       "tag": "battVolt",
-      "order": "LITTLE",
+      "order": "BIG",
       "address": "312548",
       "count": "1",
-      "type": "float",
+      "type": "long",
       "scale": "1"
     },
     {
@@ -20,7 +20,7 @@
       "order": "BIG",
       "address": "312549",
       "count": "1",
-      "type": "float",
+      "type": "long",
       "scale": "1"
     }
   ]
