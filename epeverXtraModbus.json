@@ -9,7 +9,7 @@
       "node": "1",
       "tag": "battVolt",
       "order": "BIG",
-      "address": "43104",
+      "address": "412544",
       "count": "1",
       "type": "long",
       "scale": "0.01"
@@ -18,7 +18,7 @@
       "node": "1",
       "tag": "battCurrent",
       "order": "BIG",
-      "address": "43105",
+      "address": "412545",
       "count": "1",
       "type": "long",
       "scale": "0.01"
