@@ -1,0 +1,162 @@
+{
+  "type": "RTU",
+  "baud": 9600,
+  "config": "SERIAL_8N1",
+  "ip": "0.0.0.0",
+  "port": 502,
+  "modbusConfig": [
+  {
+      "node": "1",
+      "tag": "ampere",
+      "order": "BIG",
+      "address": "36",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "hz",
+      "order": "BIG",
+      "address": "370",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "kwh",
+      "order": "BIG",
+      "address": "3342",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "volt",
+      "order": "BIG",
+      "address": "30",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "1",
+      "tag": "watt",
+      "order": "BIG",
+      "address": "312",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    }
+    {
+      "node": "2",
+      "tag": "kwh3p",
+      "order": "BIG",
+      "address": "40071",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "kvarh3p",
+      "order": "BIG",
+      "address": "40075",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "kw3p",
+      "order": "BIG",
+      "address": "40057",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "kvar3p",
+      "order": "BIG",
+      "address": "40025",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "pf3p",
+      "order": "BIG",
+      "address": "40027",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "hz3p",
+      "order": "BIG",
+      "address": "40029",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "current_r3p",
+      "order": "BIG",
+      "address": "40015",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "current_s3p",
+      "order": "BIG",
+      "address": "40017",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "current_t3p",
+      "order": "BIG",
+      "address": "40019",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "volt_r3p",
+      "order": "BIG",
+      "address": "4009",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "volt_s3p",
+      "order": "BIG",
+      "address": "40011",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    },
+    {
+      "node": "2",
+      "tag": "volt_t3p",
+      "order": "BIG",
+      "address": "40013",
+      "count": "2",
+      "type": "float",
+      "scale": "1"
+    }
+  ]
+}
